@@ -1,0 +1,6 @@
+{
+  "name": "Albruna - Rheinfränkisches Orakel",
+  "description": "Rheinfränkisches Seherinnen-Orakel der Albruna, Veleda und Runa mit altem Losholzwurf, fränkischen Runenzeichen und Spruchweisheit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
